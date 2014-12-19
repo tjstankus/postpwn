@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Postpwn::VERSION
   spec.authors       = ["TJ Stankus"]
   spec.email         = ["tjstankus@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{A writing tool.}
+  spec.description   = %q{A writing and blogging tool.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
