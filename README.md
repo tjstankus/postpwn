@@ -1,6 +1,6 @@
 # Postpwn
 
-TODO: Write a gem description
+A writing tool
 
 ## Installation
 
